@@ -1,4 +1,4 @@
-Prefeace.txt
+Preface.txt
 chapter1.txt
 chapter2.txt
 chapter3.txt
