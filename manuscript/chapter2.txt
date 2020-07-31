@@ -8,9 +8,15 @@ USE HCDAgile Road trip blog article to reflect the goal and intent of HCDAgile  
 
 ## 2.1 A short history of Human Centered Design 
 
+
+
 ## 2.2 A short history of Agile Development
 
+
+
 ## 2.3 Creating another Option (HCDAgile)	
+
+
 
 ## 2.4 Finding the HCDAgile sweet spot 	
 

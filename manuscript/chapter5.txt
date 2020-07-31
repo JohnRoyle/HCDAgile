@@ -1,8 +1,8 @@
 # Chapter 5 - Remote Team Challenges
 
-5.1 Remote Delivery: 3 Keys to Success
+## 5.1 Remote Delivery: 3 Keys to Success
 
-![Working remotely in today's world can be challenging](G:\My Drive\Profesional\HCDAgile Book\HCDAgile\manuscript\resources\remotedelivery.png)
+![Working remotely in today's world can be challenging](remotedelivery.png)
 
 Chapter 3 tells you how to make a preview of your book.
 

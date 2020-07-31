@@ -30,7 +30,7 @@ Cover Delivery enablement roadmap
 
 Cover touchpoint discussion
 
-# 3.5 Agile failures revisited through an HCDAgile lens		
+## 3.4 Agile failures revisited through an HCDAgile lens		
 
 Revisit previous agile failures and suggest alternatives how they could have been saved if they had used HCDAgile in place of an Agile only process.
 
