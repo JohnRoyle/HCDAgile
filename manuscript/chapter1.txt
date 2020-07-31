@@ -4,7 +4,7 @@
 HCDAgile Is Awesome... this is test content 
 
 {alt: "test image"}
-![TEST IMAGE NAME](palm-trees.jpg)
+![TEST IMAGE NAME](add-user.png)
 
 
 This is an image publishing test
