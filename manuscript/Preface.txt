@@ -1,10 +1,21 @@
-{sample: true}
 # Preface
 
-HCDAgile Is Awesome... this is test content 
+I was fortunate enough to know exactly what I wanted to be when I grew up.  
+My father raised me on a steady diet of science fiction and my mother was always full of encouragement and support. 
 
-{alt: "test image"}
-![TEST IMAGE NAME](add-user.png)
+One of my earliest memories was riding on a boat while on a summer vacation with my family.
+It was during this boat trip that we were attacked by pirates.  The pirates fired several shots across our bow eventually striking the hull which caused our boat to begin to flood.  In the chaos that ensued, the captain got on the boat's intercom and begged for help from any of the passengers or crew members to help seal the breach!!  
 
+It was at this moment that I felt myself spring into action….  Jumping out of my mother's arms and running to seal the gash in the side of the boat.  Filled with determination and grit and of course a desire for self preservation, I stuck my finger into the hole and saved the day!!
 
-This is an image publishing test
+Of course the breach was merely a well placed water hose for effect and the pirates were part of a well crafted river adventure we were on while visiting a theme park on vacation.
+But none of this registered with me since I was only 6yrs old at the time.  This experience was so moving to my parents that my mother wrote a story about this event years later and had it published for me as a keepsake.
+
+Looking back thru older and introspective eyes…. I believe this was the event that sparked my interest in problem solving that has followed me throughout my life and why I likely gravitated towards more and more complex problems to solve.  Early in my career as a software developer I was taught to solve the “happy path problem”.  I remember being so pleased with myself at creating elegant well documented solutions faster than my peers and being so annoyed when a tester or fellow programmer would point out some strange bizarre way to break my work of art.  
+
+At some point in time I decided rather than assuming they were crazy and obsessing over silly things that it would make an interesting challenge to see if I could write code that could not be broken or hacked by even the most obsessive tester or user out there.  This led me down the dark art of defensive programming and also re-awakened a desire inside me to find other ways to solve problems including embracing everything from DevOps,  Test Driven Development, Static Code analysis, and ultimately, Agile Processes.
+
+It is my sincere hope that this book will inspire others to explore their own problem solving skills and deepen their understanding of Agile and the importance of building the right thing the right way.
+
+The first part of this book will explore some of the history of human centered design as well as the origins of Agile followed by details of the HCDAgile process.  The remainder of the book will discuss at a high level various advanced topics and references related to improving software development outcomes.
+
