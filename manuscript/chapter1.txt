@@ -1,4 +1,11 @@
 {sample: true}
 # Chapter One
 
-HCDAgile Is Awsome... this is test content 
+HCDAgile Is Awesome... this is test content 
+
+{alt: "test image"}
+![TEST IMAGE NAME](add-user.png)
+
+
+
+This is an image publishing test
