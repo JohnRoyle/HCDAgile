@@ -1,0 +1,10 @@
+{sample: true}
+# Chapter 1 - Why Agile alone is not enough!!!!!!
+
+HCDAgile Is Awesome... this is test content 
+
+{alt: "test image"}
+![TEST IMAGE NAME](add-user.png)
+
+
+This is an image publishing test
