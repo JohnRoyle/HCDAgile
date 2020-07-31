@@ -1,5 +1,5 @@
 {sample: true}
-# Chapter 1 - Why Agile alone is not enough!!!!!!
+# Chapter 1 - Why Agile alone is not enough
 
 HCDAgile Is Awesome... this is test content 
 
