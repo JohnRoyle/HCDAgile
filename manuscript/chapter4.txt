@@ -1,17 +1,67 @@
-# Chapter Four
+# Chapter 4 - HCDAgile Project Lifecycle 
 
-Here are some quick Markdown examples to get you started.
+## 4.1 Establishing the Need (Pre-Engagement)
 
-To start a new paragraph, hit the return key twice. You want to create a blank line between paragraphs.
+Pre-engagement can be as simple as an agreement to start a team or complex with a budget approval process, RFP reviews, build vs buy analysis, etc...  In this section we will cover some of the more common pre-engagement items and the ones needed to ensure a successful outcome for the project.
 
-To *italicize*, surround a word in asterisks.
+### 4.1.1 Establish the business need
 
-To **bold**, use two asterisks.
+### 4.1.2 Budget and costs associated with addressing need 
 
-Here is a [link to the leanpub home-page](https://leanpub.com).
+### 4.1.3 Product Ownership / Business responsibility.
 
-Here's how you insert an image from the resources folder:
+### 4.1.4 Team creation / sizing / balancing resources
 
-![Palm Trees](palm-trees.jpg)
 
-Chapter 3 tells you how to make a preview of your book.
+
+
+
+## 4.2 Defining Value using a Human Centered Design approach(Discovery)
+
+Focus on how value can be defined….alternatives from other disciplines
+
+Make a case for why an HCD approach makes the most sense followed by a Deep dive into HCD methods for defining value (Journey Maps, CI, personas, etc...)
+
+Discuss how technical resources work within a Discovery setting (Architecture, prototyping, CI/CD setup, etc...) The important thing to keep in mind is that Discovery is about preparing to build the right thing once it is defined and not to jump start development on the thing before it is fully understood.
+
+Include ROI discussion related to the hidden benefits of an HCD approach (Case studies / ROI examples)
+
+### 4.2.1 Contextual Inquiry
+
+### 4.2.2 Persona Development
+
+### 4.2.3 Journey Mapping
+
+### 4.2.4 Prototyping, software architecture, CI/CD
+
+### 4.2.5 Story mapping and scope identification
+
+### 4.2.6 Backlog
+
+### 4.2.7 Moving into Delivery
+
+**Discovery to Delivery** When to transition from Discovery to Delivery has been one of the most controversial and regularly discussed topics within 1904labs.  There are proponents of blurring the line between these phases of the lifecycle to allow more time to harden personas and get the right people in the room for story mapping and initial backlog development. 
+While this may be necessary at times, I would contest that this is indicative of a “code smell” and an indication that insufficient value and priority placed on getting story mapping completed.  I cannot stress enough that for a team to be effective they need to have a shared understanding of the goals and direction for a given project.  
+
+Consider the following Scenarios / Outcomes:
+
+1. **Team has a clear aligned direction exiting Discovery (BEST)**In this scenario the team is able to accelerate quickly and establish clear expectations and goals. Equally as important, the team is able to move forward with development in a deterministic way that allows them to provide date expectations to the business. With this sort of focus the team is positioned to deliver consistent value sprint over sprint.
+2. **Team has an incorrect/incomplete but aligned direction exiting Discovery (GOOD)**In this scenario the team is still able to accelerate quickly and establish clear expectations and goals as well as provide a deterministic set of expectations for the business. Follow-up Story mapping discussions are needed to ensure correct alignment. The Risk in this approach is that the team while focused on a goal may be focused on the wrong goal due to lack of understanding. On the up-side, if the goal and roadmap are even partially aligned then valid work will be completed in the right direction adding at least some value.
+3. **Team lacks alignment direction exciting Discovery (BAD)**In this scenario the team will accelerate more slowly due to the lack of alignment on goals and priorities while waiting for the vision and roadmap to be established. Until the goals are set it is virtually impossible to provide any mid or long term deterministic expectations to the client.  The greater risk is that without a goal or vision the team risks getting work completed that has no value.
+
+
+
+## 4.3 Managing expectations and building exceptional outcomes(Delivery)
+
+Once the “right thing” has been identified and its priority value assessed its time to get to work building the thing the “right way”.
+
+This involves more than just building the software using an Agile approach. It also means spending the needed time to continually assess the project scope against the speed of the team to manage deliverable expectations.
+
+Envisioneering / Rolling wave development (Continual Discovery)Estimation and Velocity Normalization (Scope)Workshopping with Personas as a guide (Using HCD artifacts to benefit development)Deterministic Agile (Reporting and tracking project success)
+**------------------------------------------------------------------------------------**
+
+## 4.4 Time to say goodbye (Transition)
+
+Nothing lasts forever and at some point in time the project will lose its value and either be transferred to a support team or sunset. When this happens it is important for the team to transition details about the project effectively.
+
+**Transition Planning**

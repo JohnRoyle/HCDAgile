@@ -1,17 +1,27 @@
-# Chapter Six
+# Chapter 6 - HCDAgile at Scale
 
-Here are some quick Markdown examples to get you started.
+Explain how HCDAgile will work with most if not all scaling frameworks and also provide a point of view that to scale effectively that a blend of techniques are needed.
 
-To start a new paragraph, hit the return key twice. You want to create a blank line between paragraphs.
+## 6.1 Story Sizing / Estimation
 
-To *italicize*, surround a word in asterisks.
+(Deterministic overview, delivery enablement spreadsheet)Include Estimation deck content regarding how to normalize and estimate epics to get a sense for overall scope. I can also include research on No-Estimate approaches to sizing and deterministic agile.https://docs.google.com/presentation/d/18flWZh3s6pvX2al_iMsH59Tvzn_EEVP2AAvQVslV1fI/edit#slide=id.g4a6c7aef84_0_84
 
-To **bold**, use two asterisks.
+## 6.2 Scaling considerations
 
-Here is a [link to the leanpub home-page](https://leanpub.com).
+## 6.3 Defining Goals and Success Metrics 
 
-Here's how you insert an image from the resources folder:
+## 6.4 Design / Vision - Shared across teams 
 
-![Palm Trees](palm-trees.jpg)
+(Design vision needs to be carried thru the entire project scope and not just a single team)
 
-Chapter 3 tells you how to make a preview of your book.
+## 6.5 Architecture - Isolate dependencies between teams 
+
+(Use Interfaces and loose coupling for shared or dependent elements between teams.)
+
+## 6.6 Implement a scaling framework
+
+(Choose the lightest weight framework possible to ensure project control and alignment - SAFe,LeSS, SoS, Etc...)
+
+## 6.7 Implement / Integrate DevOps Components
+
+ (Use CI/CD and automated testing to ensure a clean integration path across teams.)

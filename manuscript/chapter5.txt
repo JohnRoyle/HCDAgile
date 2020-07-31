@@ -1,17 +1,54 @@
-# Chapter Five
+# Chapter 5 - Remote Team Challenges
 
-Here are some quick Markdown examples to get you started.
+5.1 Remote Delivery: 3 Keys to Success
 
-To start a new paragraph, hit the return key twice. You want to create a blank line between paragraphs.
-
-To *italicize*, surround a word in asterisks.
-
-To **bold**, use two asterisks.
-
-Here is a [link to the leanpub home-page](https://leanpub.com).
-
-Here's how you insert an image from the resources folder:
-
-![Palm Trees](palm-trees.jpg)
+![Working remotely in today's world can be challenging](G:\My Drive\Profesional\HCDAgile Book\HCDAgile\manuscript\resources\remotedelivery.png)
 
 Chapter 3 tells you how to make a preview of your book.
+
+Over the last several years, many industries have been moving to embrace a remote workforce with mixed results. The rise of COVID-19 has not only accelerated this need but changed the employment landscape overnight.
+
+Traditional [command-and-control organizations](http://www.learningtobegreat.com/blog/2010/05/13/commandandcontrol-leadership-vs-peoplecentered-leadership) are perhaps the hardest hit by this situation. These organizations have long held the view that an on-premises (“butts in seats”) approach is a required part of their success. As a result of this perspective, many companies were caught off guard in terms of how their people work, the processes they implement, and of course, the tools and infrastructure to support remote work. For the IT groups within these organizations, they are now rethinking everything about how they design, build, and deploy IT solutions (whether those solutions are software, data platforms, or data science).
+
+To be successful at designing, developing and deploying IT solutions remotely, there are three components companies need to tackle. 
+
+#### **The success or failure of their project comes down to the people a company hires and how they are treated**. 
+
+Organizations that [hire people](https://www.youtube.com/watch?time_continue=4&v=M0ON1uILk24&feature=emb_logo) based on technical skill set alone are setting themselves up for failure. There is considerable research that shows that the “butts in seats” form of management backfires. The lack of autonomy, mastery, and purpose leads to low productivity and a lack of engagement, especially when the traditional oversight model is disrupted. 
+
+To create a successful remote workforce, employees need more than raw technical skills. They need to be given a purpose, a goal, and the flexibility to do what is needed to reach that goal. In other words, they need to have a startup mindset that is shared and embraced by their organization.
+
+#### **In addition to the right people, you need to provide your people with a solution delivery approach that is remote ready**. 
+
+You may think we are referring to Waterfall software development lifecycle, and you would be correct! However, even Agile shops face similar problems if there’s an absence of an [Agile mindset](https://www.infoq.com/articles/what-agile-mindset/) and lack of understanding of the process. In both cases, this can result in people fighting the process or being unable to fully understand and embrace it.
+
+***The Cognitive Drive to Simplicity***
+
+One of the reasons that complex processes fall apart is because humans are wired with a desire to understand the world around them. At the same time, they’re wired to understand that world in as simple terms as possible. [Cognitive science research](https://www.interaction-design.org/literature/topics/gestalt-principles) has shown that people want to organize many inputs into small chunks, random stimuli into patterns, and open-ended facts into closed concepts. In short, our brains like things to be simple.
+
+Software development teams are often unnecessarily burdened by having to work through a complex development process while they should be focused on delivering value. If you add the need to negotiate that process remotely, it can create a challenge that can be incredibly difficult to overcome.
+
+***The Agile Advantage***
+
+Fortunately, [Agile processes](https://www.infoworld.com/article/3532286/7-best-practices-for-remote-agile-teams.html), when properly implemented, mitigate most process-related issues. The reason for this is simple: Agile was designed to be as simple and lean as possible from its inception. In other words, it was designed to be easy to understand and simple to operate, even in a remote environment. Simple elements like stand-up meetings help keep a remote workforce aligned while other ceremonies directly support project goals. 
+
+Even so, you have to ensure these processes are effective in a remote setting. Stand-ups are used to breed accountability between team members and create an opportunity for individuals to ask for help. In a remote setting, it’s much easier to avoid accountability without having to look into your teammates’ eyes when saying you were unable to meet commitments. It’s also much harder to ask for help. Make sure these elements are still hardwired into your process.
+
+#### **Finally, your people need the right tools and technology to deliver remotely.**
+
+With the restrictions imposed by COVID-19 and the need to be remote, developers, designers, researchers, managers, and executives alike will have to get their jobs done using virtual alternatives to in-person meetings and on-site development. In some cases, this could represent extensive infrastructure changes by an organization to allow for remote workers to connect to company assets. In other instances, this could expose the need for virtual tools such as [JIRA](https://www.atlassian.com/software/jira) to track and report on a team's work-in-progress when they are remote. There are so many tools out there to enable virtual collaboration. How do you choose the right one?
+
+***Choosing the Right Tools to Delivery Remotely.***
+
+While it is possible to get quality work done without these tools, the right tool can improve understanding, build trust, increase alignment, and in turn, accelerate development. 
+
+The first thing to remember is that a tool that is not used correctly or fully will not add much value. For example, [JIRA](https://www.atlassian.com/software/jira), [Trello](https://trello.com/), and [Rally](https://www.broadcom.com/products/software/agile-development/rally-software) are all effective tools for handling and managing backlogs, but only if the team uses them the same way. If time is spent on work not reflected in the backlogs of these tools, then the tool will give an incomplete picture of how much work is being done.
+
+Second, when selecting tools to enable your people to work and deliver remotely, ask yourself what problem is each tool helping you solve. At the same time, what problems will using this tool create? For example, a video conferencing tool may solve the problem of remote conferencing, but if the infrastructure or service is slow and the experience is poor, it may cause more problems. 
+
+## 5.2 How to build performant teams remotely
+
+## 5.3 The need for 1:1’s in remote settings
+
+## 5.4 Gamification and personal velocity to raise the bar
+

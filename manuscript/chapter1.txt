@@ -11,5 +11,8 @@ So what caused this difference?????
 
 *Point out that there have been dozens of books written about Agile development practices and that while all of them have value they also fall short of obtaining optimal outcomes when building software.  Building valuable solutions is more than just best practices and good processes…. It is grounded in placing the human being / end user at the center of everything that is done*.
 
-1. 1.1 Agile failures
-2. 1.2 Case Studies
+## 1.1 Agile failures
+
+
+
+## 1.2 Case Studies

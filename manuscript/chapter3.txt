@@ -1,7 +1,37 @@
-# Chapter Three
+# Chapter 3- HCDAgile Overview 
 
-To make a preview of your book, click on the "Preview" button on the left. We'll show you some links to download your book when the preview is complete.
+Review the basic framework from a theoretical perspective and then use the rest of the book to describe how to implement this theory in practice.
 
-You can keep writing in the meantime.
+## *3.1 Understanding the HCDAgile project lifecycle*
 
-That's it for the brief introduction to Leanpub.
+Be sure to give a NOD to “[Scott Ambler](http://www.ambysoft.com/)” and Disciplined Agile Delivery which crystalized the idea for the need of an agile project lifecycle. 
+
+(pre, discovery, delivery, transition)
+
+Sprint Flow in HCDAgile Rolling wave and having HCD / Design proceed development. The key is flow and allowing incomplete HCD research to NOT prevent story development and to circle back to close out those items when HCD is complete.
+
+Ceremony Flow and purposehttps://docs.google.com/presentation/d/1STuBsxcVUIWE_k1-oOBDRxcnHfIlacXUZWRnRI_cYQI/edit#slide=id.g4e9a205d4a_0_52
+
+
+
+## 3.2 Defining the roles and responsibilities within an HCDAgile project
+
+[**https://docs.google.com/presentation/d/1Mfhe6YiYO4lsjFNuOEjbdnAE1jx5kE1ffHv_BUJB3rs/edit#slide=id.g818a0fe73a_0_451**](https://docs.google.com/presentation/d/1Mfhe6YiYO4lsjFNuOEjbdnAE1jx5kE1ffHv_BUJB3rs/edit#slide=id.g818a0fe73a_0_451)
+
+Add Coaching details to the AEL regarding **Shu Ha Ri**. Teams start off as Managers, become Scrum Masters, and end as Coaches and learners. The idea being that a team that is new to HCDAgile needs to be shown what is expected of them at first.  Once the team normalizes around HCDAgile the Managers becomes a typical Scrum Master, Once the team becomes performant the AEL moves into a Coaching role and pushes the team to be more autonomous and self directed.
+
+Add details about the responsibilities of the HCD members and that while not optimal HCDAgile can be done without an HCDL with the AEL and team members taking responsibility for the HCD team members activities. (e.g. AEL could lead story mapping, developers could do interviews, some artifacts like journeymap could be skipped or done by a trained member of the development team)
+
+
+
+## 3.3 Making good on your promise and delivering more than expected
+
+Cover Delivery enablement roadmap
+
+Cover touchpoint discussion
+
+# 3.5 Agile failures revisited through an HCDAgile lens		
+
+Revisit previous agile failures and suggest alternatives how they could have been saved if they had used HCDAgile in place of an Agile only process.
+
+Share 1904labs case studies and how HCDAgile techniques helped manage expectations and lead to powerful solutions (Mercy project)

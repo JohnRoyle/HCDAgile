@@ -1,17 +1,11 @@
-# Chapter Seven
+# Chapter 7 - Being Agile
 
-Here are some quick Markdown examples to get you started.
+Hopefully this book provides a solid foundation and insights for business and teams to build more effective solutions.  It is also the case that “being agile” will always remain more important than the process details.
 
-To start a new paragraph, hit the return key twice. You want to create a blank line between paragraphs.
+With that in mind, I would encourage everyone to adapt and share their insights into other mechanisms and techniques that have led to great solutions. As an open source process I hope you will share your stories with everyone by visiting HCDAgile.com and sharing your story with us. 
 
-To *italicize*, surround a word in asterisks.
+** also note that being Agile in an HCDAgile system means looking for opportunities to apply HCDAgile to non traditional projects like data only projects or non IT projects.
 
-To **bold**, use two asterisks.
+## 7.1 HCDAgile Open Sourcing details
 
-Here is a [link to the leanpub home-page](https://leanpub.com).
-
-Here's how you insert an image from the resources folder:
-
-![Palm Trees](palm-trees.jpg)
-
-Chapter 3 tells you how to make a preview of your book.
+## 7.2 Agile KPI’s 

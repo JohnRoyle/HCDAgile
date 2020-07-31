@@ -1,17 +1,19 @@
-# Chapter Two
+# Chapter 2 - The origins of HCDAgile
 
-Here are some quick Markdown examples to get you started.
+Tell the origins story of HCD and of Agile and the birth of HCDAgile
 
-To start a new paragraph, hit the return key twice. You want to create a blank line between paragraphs.
+For a product to be successful it must fully address the needs of the end user, the technical solution that best solves the problem, and the needs and goals of the business. This is the 3 legged stool that HCDAgile was created to address.
 
-To *italicize*, surround a word in asterisks.
+USE HCDAgile Road trip blog article to reflect the goal and intent of HCDAgile      This metaphor is perfect to que up an overview of the process
 
-To **bold**, use two asterisks.
+## 2.1 A short history of Human Centered Design 
 
-Here is a [link to the leanpub home-page](https://leanpub.com).
+## 2.2 A short history of Agile Development
 
-Here's how you insert an image from the resources folder:
+## 2.3 Creating another Option (HCDAgile)	
 
-![Palm Trees](palm-trees.jpg)
+## 2.4 Finding the HCDAgile sweet spot 	
 
-Chapter 3 tells you how to make a preview of your book.
+Provide a grid showing various methodologies and where they best fit in the market. Be sure to use this to identify where and when and HCDAgile approach makes the most sense (i.e. new development projects longer than 6months)
+
+** Reference when HCDAgile works best (i.e not for support or break fix projects)** Reference how it can be applied to all types of new projects including Data ONLY projects… (i.e. HCDAgile for Data)
