@@ -1,10 +1,15 @@
-{sample: true}
 # Chapter 1 - Why Agile alone is not enough
 
-HCDAgile Is Awesome... this is test content 
-
-{alt: "test image"}
-![TEST IMAGE NAME](add-user.png)
 
 
-This is an image publishing test
+After graduating with a double major in Mathematics and Computer Science I spent the first several years of my career working for Southwestern Bell Telephone (SBC) as a Software Analyst. During my time with SBC (now ATT) I worked on several projects some of which were more successful than others. It always perplexed me that some of these projects failed where others succeeded…. Especially since I was a constant on all of them.  I figured if I was bad at my job they would all fail and if I was as good as I hoped I was they would all be successful.
+
+It wasn't until years later that I began to take up this question more seriously and started to explore why some projects are hugely successful while others turn out to be spectacular failures.  I think like most people, I assumed the successes were based on the relative strength of the development team and the failures related to external factors that could not be controlled.
+
+Over the years I have come to view this problem a bit differently in part because I have been fortunate enough to be on both the successful and failed projects.  What struck me the most was that some of the failed projects were staffed with some of the brightest people I have ever worked with and with a team of developers that were engaged and focused on getting the work done.  In other projects I was saddled with novice programmers and dysfunctional leaders and yet the projects were hugely successful.
+So what caused this difference?????
+
+*Point out that there have been dozens of books written about Agile development practices and that while all of them have value they also fall short of obtaining optimal outcomes when building software.  Building valuable solutions is more than just best practices and good processes…. It is grounded in placing the human being / end user at the center of everything that is done*.
+
+1. 1.1 Agile failures
+2. 1.2 Case Studies
