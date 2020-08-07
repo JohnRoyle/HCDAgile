@@ -1,10 +1,14 @@
 # Chapter 4 - HCDAgile Project Lifecycle 
 
+ [Scott Ambler](http://www.ambysoft.com/)The face of Agile IBM. Scott Ambler has always been controversial in the community for his continued support of unified processes as opposed to the Scrum/XP combination. Scott with his leading role for IBM often has the ear of many large organisations and is also about to release a book on **Disciplined Agile Delivery (DAD** as it is affectionately known)
+
+
+
 ## 4.1 Establishing the Need (Pre-Engagement)
 
 Pre-engagement can be as simple as an agreement to start a team or complex with a budget approval process, RFP reviews, build vs buy analysis, etc...  In this section we will cover some of the more common pre-engagement items and the ones needed to ensure a successful outcome for the project.
 
-### 4.1.1 Establish the business need
+### 4.1.1 Understand the problem space
 
 ### 4.1.2 Budget and costs associated with addressing need 
 
@@ -25,6 +29,8 @@ Make a case for why an HCD approach makes the most sense followed by a Deep dive
 Discuss how technical resources work within a Discovery setting (Architecture, prototyping, CI/CD setup, etc...) The important thing to keep in mind is that Discovery is about preparing to build the right thing once it is defined and not to jump start development on the thing before it is fully understood.
 
 Include ROI discussion related to the hidden benefits of an HCD approach (Case studies / ROI examples)
+
+Jeff Patton - **User Story Mapping: Discover the Right Story, Build the Right Thing** (A tool to organize value, especially valuable as a product owner)
 
 ### 4.2.1 Contextual Inquiry
 

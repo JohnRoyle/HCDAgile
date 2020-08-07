@@ -48,6 +48,8 @@ Second, when selecting tools to enable your people to work and deliver remotely,
 
 ## 5.2 How to build performant teams remotely
 
+[Martin Fowler](http://martinfowler.com/ Over 40,000 twitter followers (making him the most popular in the Agile community) and a hard-core fan base makes Martin Fowler a key influential member of the community. Having spent most of his career at Thoughtworks, he continues to be a strong advocate for **refactoring**.1.  - Several blogs on thoughtworks related to remote and offshore teams 
+
 ## 5.3 The need for 1:1’s in remote settings
 
 ## 5.4 Gamification and personal velocity to raise the bar

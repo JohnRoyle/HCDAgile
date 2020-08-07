@@ -8,4 +8,12 @@ With that in mind, I would encourage everyone to adapt and share their insights 
 
 ## 7.1 HCDAgile Open Sourcing details
 
+HCDAgile.org
+
+GitHub repo for others contribute case studies and insights
+
+Book profits will be donated to charity to give back
+
+
+
 ## 7.2 Agile KPI’s 

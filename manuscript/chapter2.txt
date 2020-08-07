@@ -14,6 +14,16 @@ USE HCDAgile Road trip blog article to reflect the goal and intent of HCDAgile  
 
 
 
+ [James Shore](http://jamesshore.com/)James believes that great software development teams consistently deliver market success, technical success and personal success for team members and stakeholders. He was an early adopter of Agile development and wrote a best selling book – **The Art of Agile Development** – which is also a popular blog.
+
+[Jeff Sutherland](http://scrum.jeffsutherland.com/) The second **founder of Scrum**. - **The Art of Doing Twice the Work in Half the Time** (Why is agile better than waterfall - that "80/20 rule" with working use cases... somewhat hyped/overselling agile, but has great content)
+
+
+
+Kenneth Ruban - **Essential Scrum: A Practical Guide to the Most Popular Agile Process** (Scrum Mechanics - basics)
+
+
+
 ## 2.3 Creating another Option (HCDAgile)	
 
 

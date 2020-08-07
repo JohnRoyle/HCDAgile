@@ -1,3 +1,89 @@
+
+
+
+
+**Preface**	
+
+**Chapter 1 - Why Agile alone is not enough**	
+
+1.1 Agile failures
+
+1.2 Case Studies	
+
+**Chapter 2 - The origins of HCDAgile**	
+
+2.1 A short history of Human Centered Design
+
+2.2 A short history of Agile Development	
+
+2.3 Creating another Option (HCDAgile)
+
+2.4 Finding the HCDAgile sweet spot	
+
+**Chapter 3- HCDAgile Overview**	
+
+3.1 Understanding the HCDAgile project lifecycle	
+
+3.2 Defining the roles and responsibilities within an HCDAgile project
+
+3.4 Making good on your promise and delivering more than expected
+
+3.5 Agile failures revisited through an HCDAgile lens
+
+**Chapter 4 - Project Lifecycle **	
+
+4.1 Establishing the Need (Pre-Engagement)
+
+4.2 Defining Value using a Human Centered Design approach(Discovery)
+
+4.3 Managing expectations and building exceptional outcomes(Delivery)
+
+4.4 Time to say goodbye (Transition)
+
+**Chapter 5 - Remote Team Challenges**
+
+5.1 Remote Delivery: 3 Keys to Success
+
+- The success or failure of their project comes down to the people a company hires and how they are treated.
+- In addition to the right people, you need to provide your people with a solution delivery approach that is remote ready.
+- Finally, your people need the right tools and technology to deliver remotely.
+
+5.2 How to build performant teams remotely
+
+5.3 The need for 1:1’s in remote settings
+
+5.4 Gamification and personal velocity to raise the bar
+
+**Chapter 6 - HCDAgile at Scale**
+
+6.0 Story Sizing / Estimation
+
+6.1 Scaling considerations
+
+6.2 Defining Goals and Success Metrics
+
+6.3 Design / Vision - Shared across teams
+
+6.4 Architecture - Isolate dependencies between teams
+
+6.5 Implement a scaling framework
+
+6.6 Implement / Integrate DevOps Components
+
+**Chapter 7 - Being Agile**
+
+7.1 HCDAgile Open Sourcing details
+
+7.2 Agile KPI’s
+
+**Acknowledgments**
+
+**Appendix**
+
+
+
+
+
 ========================================================================Schedule:========================================================================
 Define Scope for Book (DONE)      Intro level book on HCDAgile that covers the process and touches on some more advanced concepts like scaling and remote teams.  
 Target size (150-300 pages) Share personal stories as well as technical details.  Use labs as shadow editors and reviewers to keep costs down.$5k-$10k for professional editor to clean-up a well written 200 pg book.
@@ -16,13 +102,33 @@ On Amazon:$5 for each paperback book created by Amazon… $0 for Mobi formatted 
 
 
 
-
-
+- 
 
 ========================================================================Various NOTES:========================================================================Authors to reach out to for endorsement of process!!!!
-\21. *Marty Cagan -* **Inspired author**
-\19. [James Shore](http://jamesshore.com/)James believes that great software development teams consistently deliver market success, technical success and personal success for team members and stakeholders. He was an early adopter of Agile development and wrote a best selling book – **The Art of Agile Development** – which is also a popular blog.18. [Lyssa Adkins](http://www.coachingagileteams.com/)The coaches’ coach. A certified scrum trainer who wrote a best-selling book **Coaching Agile Teams**. Possibly a surprise entry for some, but with a popular blog, strong book sales and internet searches. Lyssa Adkins makes the list.17. [Israel Gat](http://www.cutter.com/meet-our-experts/gati.html)The Cutter Consortium Agile Director. Has lead large-scale agile transformation at BMC software and is a self-professed Agile Executive. His book, **the Concise Executive Guide to Agile** has become a best seller stateside.16. [Jim Highsmith](http://jimhighsmith.com/)Jim Highsmith (the third technically), is a winner of the Stevens Prize. Now with Thoughtworks, he acts as a spokesman on their behalf. He has also served as Director of Agile for the Cutter Consortium. He wrote **Adaptive Software Development** in 1999 where he used mountain climbing to illustrate his points about teamwork, planning and adaption.15. [Roman Pichler](http://www.romanpichler.com/)A surprise entrant, but his focus on the **Product Owner** has increased his influence in the community. With the leading book on the subject and an increasingly popular blog. Roman Pichler makes our list.14. [Alistair Cockburn](http://alistair.cockburn.us/)Alistair helped write the Agile Manifesto and the **Agile Declaration of Interdependence**. He invented a set of methods called Crystal and has recently set up the ICAgile Certification. Despite limited success in this space, he continues to be influential within the Agile community.12. [Scott Ambler](http://www.ambysoft.com/)The face of Agile IBM. Scott Ambler has always been controversial in the community for his continued support of unified processes as opposed to the Scrum/XP combination. Scott with his leading role for IBM often has the ear of many large organisations and is also about to release a book on **Disciplined Agile Delivery (DAD** as it is affectionately known).11. [Mary Poppendieck](http://www.poppendieck.com/)Mary and her delightful husband Tom, introduced us to the world of Toyota. Still very popular on the circuit, they have recently been talking about **design thinking** (the next book maybe). Mary started the whole movement of bringing Agile and Lean together.10. [Kent Beck](http://www.threeriversinstitute.org/Kent Beck.htm)There are those who will be very critical of Kent Beck’s position. He drives a hard-core fan base, but the reality is that **XP** seems to be unfashionable today compared to other Agile methods. Kent Beck has a highly popular twitter account, but despite two excellent books, he was not on the best-seller list provided by Amazon.9. [Jeff Sutherland](http://scrum.jeffsutherland.com/)The second **founder of Scrum**. Jeff Sutherland continues to promote hyper productivity at conferences and the beauty of 30 day software. As Jeff points out on his blog, interest in agile scrum continues to grow, and it is still the main Agile approach for software development teams today. Jeff has never really been a writer of books, but has two coming out, which if they sell well, may improve his position.8. [Craig Larman](http://www.craiglarman.com/wiki/index.php?title=Main_Page)A surprise high entrant. Craig has three titles, which all sell reasonably well which drives his influence. Still one of the leading authors on **how to scale Agile.**6. [Jurgen Appelo](http://www.noop.nl/)A bigger name in Europe than America. Jurgen Appelo has taken the market by storm with his **Management 3.0** book about complexity. Has recently been an advocate of the Stoos movement and Agile Lean Europe. He has also released a book called **How to change the world**. He is one of the few ‘new guard’ to make the list and so it may be worth reading.4. [Martin Fowler](http://martinfowler.com/)Over 40,000 twitter followers (making him the most popular in the Agile community) and a hard-core fan base makes Martin Fowler a key influential member of the community. Having spent most of his career at Thoughtworks, he continues to be a strong advocate for **refactoring**.1. [Mike Cohn](http://www.mountaingoatsoftware.com/)Well, somebody has to be number one. It was a surprise to me that the clear winner is not responsible for the leading **Scrum or Kanban approaches**. Mike Cohn, the Scrum Alliance Chairman, author of multiple leading books on the subject has been awarded first place. In almost every category, Mike Cohn’s name appeared in the top 10, and almost always in first or second position. Congratulations Mike.------------------------------------------------------------------------------------------------------------------------------
-Personal HistorySaved the world!Raised on Star Trek and McGiverComputer clubAVComp sciFailing CalculusRefusing to fail and pushing to learn developing a desire for learningBecoming a student teacher and helping others overcome their obsticalsGraduating with math comp sciMasters in computer science.Developer, Applications Architect,TeachingEventually building a curiosity regarding why things sometimes fail and applying problem solving to figure out a better way to make things successful.Discovering HCD and the power of identifying the right thing as the missing ingredientJump starting a new company that would build the right thing the right wayWriting this book to share these insights with others.
+
+
+
+- Jeff Patton - **User Story Mapping: Discover the Right Story, Build the Right Thing** (A tool to organize value, especially valuable as a product owner)
+- Jeff Southerland - **The Art of Doing Twice the Work in Half the Time** (Why is agile better than waterfall - that "80/20 rule" with working use cases... somewhat hyped/overselling agile, but has great content)
+- Kenneth Ruban - **Essential Scrum: A Practical Guide to the Most Popular Agile Process** (Scrum Mechanics - basics)
+- Roman Pichler - **Agile Product Management with Scrum** (Specifics for improving the PO role)
+- Tommy Mouser & Gary Gruver - **Leading the transformation: Applying agile and DevOps Principles at Scale** (starting with DevOps to lead an agile transformation - i.e. automating alignment of deployments regardless of work methodology)
+-  *Marty Cagan -* **Inspired author**
+- \19. [James Shore](http://jamesshore.com/)James believes that great software development teams consistently deliver market success, technical success and personal success for team members and stakeholders. He was an early adopter of Agile development and wrote a best selling book – **The Art of Agile Development** – which is also a popular blog.18. 
+- Lyssa Adkins](http://www.coachingagileteams.com/) The coaches’ coach. A certified scrum trainer who wrote a best-selling book **Coaching Agile Teams**. Possibly a surprise entry for some, but with a popular blog, strong book sales and internet searches. Lyssa Adkins makes the list.17.    
+-  [Israel Gat](http://www.cutter.com/meet-our-experts/gati.html) The Cutter Consortium Agile Director. Has lead large-scale agile transformation at BMC software and is a self-professed Agile Executive. His book, **the Concise Executive Guide to Agile** has become a best seller stateside.16. 
+- Jim Highsmith](http://jimhighsmith.com/Jim (the third technically), is a winner of the Stevens Prize. Now with Thoughtworks, he acts as a spokesman on their behalf. He has also served as Director of Agile for the Cutter Consortium. He wrote **Adaptive Software Development** in 1999 where he used mountain climbing to illustrate his points about teamwork, planning and adaption.15. 
+- [Roman Pichler](http://www.romanpichler.com/) A surprise entrant, but his focus on the **Product Owner** has increased his influence in the community. With the leading book on the subject and an increasingly popular blog. Roman Pichler makes our list.14. 
+-  [Alistair Cockburn](http://alistair.cockburn.us/) Alistair helped write the Agile Manifesto and the **Agile Declaration of Interdependence**. He invented a set of methods called Crystal and has recently set up the ICAgile Certification. Despite limited success in this space, he continues to be influential within the Agile community.12. 
+- [Scott Ambler](http://www.ambysoft.com/) The face of Agile IBM. Scott Ambler has always been controversial in the community for his continued support of unified processes as opposed to the Scrum/XP combination. Scott with his leading role for IBM often has the ear of many large organizations and is also about to release a book on **Disciplined Agile Delivery (DAD** as it is affectionately known).11. 
+- [Mary Poppendieck](http://www.poppendieck.com/) Mary and her delightful husband Tom, introduced us to the world of Toyota. Still very popular on the circuit, they have recently been talking about **design thinking** (the next book maybe). Mary started the whole movement of bringing Agile and Lean together.10. 
+- [Kent Beck](http://www.threeriversinstitute.org/Kent Beck.htm) There are those who will be very critical of Kent Beck’s position. He drives a hard-core fan base, but the reality is that **XP** seems to be unfashionable today compared to other Agile methods. Kent Beck has a highly popular twitter account, but despite two excellent books, he was not on the best-seller list provided by Amazon.9. 
+- [Jeff Sutherland](http://scrum.jeffsutherland.com/) The second **founder of Scrum**. Jeff Sutherland continues to promote hyper productivity at conferences and the beauty of 30 day software. As Jeff points out on his blog, interest in agile scrum continues to grow, and it is still the main Agile approach for software development teams today. Jeff has never really been a writer of books, but has two coming out, which if they sell well, may improve his position.8. 
+- Craig Larman](http://www.craiglarman.com/wiki/index.php?title=Main_Page A surprise high entrant. Craig has three titles, which all sell reasonably well which drives his influence. Still one of the leading authors on **how to scale Agile.**6. 
+- [Jurgen Appelo](http://www.noop.nl/) A bigger name in Europe than America. Jurgen Appelo has taken the market by storm with his **Management 3.0** book about complexity. Has recently been an advocate of the Stoos movement and Agile Lean Europe. He has also released a book called **How to change the world**. He is one of the few ‘new guard’ to make the list and so it may be worth reading.4. 
+- [Martin Fowler](http://martinfowler.com/ Over 40,000 twitter followers (making him the most popular in the Agile community) and a hard-core fan base makes Martin Fowler a key influential member of the community. Having spent most of his career at Thoughtworks, he continues to be a strong advocate for **refactoring**.1. 
+- [Mike Cohn](http://www.mountaingoatsoftware.com/)Well, somebody has to be number one. It was a surprise to me that the clear winner is not responsible for the leading **Scrum or Kanban approaches**. Mike Cohn, the Scrum Alliance Chairman, author of multiple leading books on the subject has been awarded first place. In almost every category, Mike Cohn’s name appeared in the top 10, and almost always in first or second position. Congratulations Mike.------------------------------------------------------------------------------------------------------------------------------
+  Personal HistorySaved the world!Raised on Star Trek and McGiverComputer clubAVComp sciFailing CalculusRefusing to fail and pushing to learn developing a desire for learningBecoming a student teacher and helping others overcome their obsticalsGraduating with math comp sciMasters in computer science.Developer, Applications Architect,TeachingEventually building a curiosity regarding why things sometimes fail and applying problem solving to figure out a better way to make things successful.Discovering HCD and the power of identifying the right thing as the missing ingredientJump starting a new company that would build the right thing the right wayWriting this book to share these insights with others.
 
 *Being Agile* KPIsMetrics today need to encourage the type of behaviors that cultivate the “being agile” world many organizations say they are striving towards.
 Being AgileBehaviorMethods of MeasurementIndividual Behaviors (Being Agile)Knowledge Sharing, Nurturing Others, Providing Opportunities for Team Members, Reaching Out, Challenges/Supports Others360 Team Evaluations

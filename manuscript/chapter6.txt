@@ -2,9 +2,21 @@
 
 Explain how HCDAgile will work with most if not all scaling frameworks and also provide a point of view that to scale effectively that a blend of techniques are needed.
 
+
+
+Craig Larman](http://www.craiglarman.com/wiki/index.php?title=Main_Page A surprise high entrant. Craig has three titles, which all sell reasonably well which drives his influence. Still one of the leading authors on **how to scale Agile.**6.
+
+
+
 ## 6.1 Story Sizing / Estimation
 
 (Deterministic overview, delivery enablement spreadsheet)Include Estimation deck content regarding how to normalize and estimate epics to get a sense for overall scope. I can also include research on No-Estimate approaches to sizing and deterministic agile.https://docs.google.com/presentation/d/18flWZh3s6pvX2al_iMsH59Tvzn_EEVP2AAvQVslV1fI/edit#slide=id.g4a6c7aef84_0_84
+
+
+
+**Agile Estimating and Planning** by Mike Cohn https://www.mountaingoatsoftware.com/books/agile-estimating-and-planning
+
+
 
 ## 6.2 Scaling considerations
 
@@ -25,3 +37,5 @@ Explain how HCDAgile will work with most if not all scaling frameworks and also 
 ## 6.7 Implement / Integrate DevOps Components
 
  (Use CI/CD and automated testing to ensure a clean integration path across teams.)
+
+Tommy Mouser & Gary Gruver - **Leading the transformation: Applying agile and DevOps Principles at Scale** (starting with DevOps to lead an agile transformation - i.e. automating alignment of deployments regardless of work methodology)

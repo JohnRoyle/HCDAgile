@@ -2,7 +2,53 @@
 
 
 
-After graduating with a double major in Mathematics and Computer Science I spent the first several years of my career working for Southwestern Bell Telephone (SBC) as a Software Analyst. During my time with SBC (now ATT) I worked on several projects some of which were more successful than others. It always perplexed me that some of these projects failed where others succeeded…. Especially since I was a constant on all of them.  I figured if I was bad at my job they would all fail and if I was as good as I hoped I was they would all be successful.
+## The three legged stool
+
+You may ask yourself why the 3 legged stool metaphor is used as the cover for this book.
+
+The reason is quite simple..... to obtain an optimal outcome all three legs of the stool must be in balance to support the goals of a project.  The legs I speak of are "business, users, and technology".
+
+**Business**
+
+If the users do not use the tools defined by the business then the project will not be well supported
+
+If the technology selected and used is not well designed or capable of supporting business interests then the project will also fail.
+
+**User's**
+
+If the business does not support the users needs then the project will never be funded
+
+If the technology is too complex to use simply then the project will fail to be adopted
+
+**Technology**
+
+If the business does not value refactoring and code stability the project will fail
+
+If the users 
+
+
+
+
+
+
+
+
+
+There is no question that Agile methods and mindsets have enhanced our ability to adapt to change and improve project outcomes.   At the same time, it is also true that using an agile approach does not guarantee success or even an improvement over other approaches.  
+
+
+
+
+
+
+
+If Agile is the right thing to use then why does it fail so much of the time?
+
+
+
+
+
+After graduating with a double major in Mathematics and Computer Science I spent the first several years of my career working for Southwestern Bell Telephone (SBC) as a Software Analyst. During my time with SBC (now ATT) I worked on several projects some of which were more successful than others. It always perplexed me that some of these projects failed where others succeeded.  I figured if I was bad at my job they would all fail and if I was as good as I hoped I was they would all be successful.
 
 It wasn't until years later that I began to take up this question more seriously and started to explore why some projects are hugely successful while others turn out to be spectacular failures.  I think like most people, I assumed the successes were based on the relative strength of the development team and the failures related to external factors that could not be controlled.
 
@@ -11,8 +57,31 @@ So what caused this difference?????
 
 *Point out that there have been dozens of books written about Agile development practices and that while all of them have value they also fall short of obtaining optimal outcomes when building software.  Building valuable solutions is more than just best practices and good processes…. It is grounded in placing the human being / end user at the center of everything that is done*.
 
+
+
+
+
+Israel Gat](http://www.cutter.com/meet-our-experts/gati.html)The Cutter Consortium Agile Director. Has lead large-scale agile transformation at BMC software and is a self-professed Agile Executive. His book, **the Concise Executive Guide to Agile** has become a best seller stateside.
+
+
+
 ## 1.1 Agile failures
 
+Lack of long term planning to support business interests
 
+Lack of regular accurate feedback to support users interests
+
+Lack of understanding on the importance of technical debt refactoring 
 
 ## 1.2 Case Studies
+
+Monsanto
+
+Bayer
+
+Mercy
+
+MasterCard
+
+Charter
+
